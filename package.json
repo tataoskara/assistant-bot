@@ -1,0 +1,9 @@
+{
+  "name": "personal-assistant-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot webhook — parses notes with Claude, creates Asana tasks",
+  "private": true,
+  "engines": {
+    "node": "20.x"
+  }
+}
